@@ -25,7 +25,7 @@ public class DarkForestFinder {
     public static final Fortress fortress = new Fortress(MCVersion.v1_14_4);
     public static final ChunkRand rand = new ChunkRand();
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) {
 
         Long startSeed = 0L;
         int numFound = 0;
