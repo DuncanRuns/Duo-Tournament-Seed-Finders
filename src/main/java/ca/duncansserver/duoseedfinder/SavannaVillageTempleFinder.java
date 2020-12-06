@@ -100,7 +100,7 @@ public class SavannaVillageTempleFinder {
                 }
 
                 FoundSeed thisFoundSeed = new FoundSeed(worldSeed, villageX * 16, villageZ * 16);
-                System.out.println(thisFoundSeed);
+                //System.out.println(thisFoundSeed);
                 foundSeeds.add(thisFoundSeed);
                 numFound++;
 

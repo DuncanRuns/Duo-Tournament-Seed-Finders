@@ -96,7 +96,9 @@ public class DarkForestFinder {
                     continue;
                 }
 
-                foundSeeds.add(new FoundSeed(worldSeed, villageX * 16, villageZ * 16));
+                FoundSeed thisFoundSeed = new FoundSeed(worldSeed, villageX * 16, villageZ * 16);
+                //System.out.println(thisFoundSeed);
+                foundSeeds.add(thisFoundSeed);
                 numFound++;
 
                 if (numFound % 50 == 0) {
