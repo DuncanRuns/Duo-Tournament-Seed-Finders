@@ -16,3 +16,9 @@ The tundra village and igloo seeds will contain:
 The plains village and dark forest seeds will contain:
 - A plains village from coordinates (0,0) to (112,112) (the first 7x7 chunks of the world).
 - A dark forest within 3 chunks of that village's starting point.
+
+
+Practice Seeds
+Plains Village / Darcoke: https://pastebin.com/raw/ZSLSXUsJ
+Tundra Village / Igloo: https://pastebin.com/raw/bCjxvu2d
+Savanna Village / Temple: https://pastebin.com/raw/GV1A1fQi
