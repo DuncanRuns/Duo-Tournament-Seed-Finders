@@ -17,7 +17,7 @@ import kaptainwutax.featureutils.structure.Village;
 import kaptainwutax.seedutils.mc.ChunkRand;
 import kaptainwutax.seedutils.mc.MCVersion;
 
-public class IglooSeedFinder {
+public class IglooFinder {
 
     public static final Village village = new Village(MCVersion.v1_14_4);
     public static final Fortress fortress = new Fortress(MCVersion.v1_14_4);
