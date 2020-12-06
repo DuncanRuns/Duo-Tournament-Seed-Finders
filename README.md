@@ -19,6 +19,6 @@ The plains village and dark forest seeds will contain:
 
 
 Practice Seeds
-Plains Village / Darcoke: https://pastebin.com/raw/ZSLSXUsJ
-Tundra Village / Igloo: https://pastebin.com/raw/bCjxvu2d
-Savanna Village / Temple: https://pastebin.com/raw/GV1A1fQi
+- Plains Village / Darcoke: https://pastebin.com/raw/ZSLSXUsJ
+- Tundra Village / Igloo: https://pastebin.com/raw/bCjxvu2d
+- Savanna Village / Temple: https://pastebin.com/raw/GV1A1fQi
